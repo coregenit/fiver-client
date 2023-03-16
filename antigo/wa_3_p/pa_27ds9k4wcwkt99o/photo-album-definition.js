@@ -1,0 +1,72 @@
+{
+"global_config":{
+"gallery_type":0,
+"diaporama_time":3,
+"transition_effect":100,
+"max_image_resolution":800,
+"random_diaporama":0,
+"show_diaporama_button":0,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":1,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":1,
+"type_display_page_navigator":0,
+"display_nav_arrows":1,
+"always_display_nav_elements":1,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":0}
+,"normal_config":{
+"has_shadow":true,
+"rows":1,
+"cols":6,
+"image_size":120,
+"image_spacing":6,
+"nb_images_per_page":6,
+"margin_left":14,
+"margin_top":24}
+,
+"fullscreen_list_config":{
+"image_size":80}
+,"images":[{"fn":"drywall01.jpg",
+"mod_th":"27qh141rwz7vcv",
+"mod":"27qgy81rwz7vcv",
+"size":{"w":360,"h":480},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"drywall02.jpg",
+"mod_th":"27qhbc1rwz7vcv",
+"mod":"27qh8g1rwz7vcv",
+"size":{"w":480,"h":360},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"drywall03.jpg",
+"mod_th":"27qhlk1rwz7vcv",
+"mod":"27qhio1rwz7vcv",
+"size":{"w":480,"h":360},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"drywall04.jpg",
+"mod_th":"27qhvs1rwz7vcv",
+"mod":"27qhsw1rwz7vcv",
+"size":{"w":480,"h":360},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"drywall07.jpg",
+"mod_th":"27qi601rwz7vcv",
+"mod":"27qi341rwz7vcv",
+"size":{"w":360,"h":480},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"drywall.jpg",
+"mod_th":"27qig81rwz7vcv",
+"mod":"27qidc1rwz7vcv",
+"size":{"w":600,"h":490},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}
